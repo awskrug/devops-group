@@ -7,6 +7,18 @@
 
 # Meetups
 
+## 2022년
+<details>
+  <summary>10회 밋업 - <b>대학생들에게 해주고 싶은 이야기 혹은 사례, 커리어 경험담</b> 11월 17일</summary>
+
+  ### `10회 밋업`
+   * Cloud Native와 DevOps - 유수연(IBM)
+   * 경영학과 전공생의 고군분투 software engineer 도전기 - 이권수 (AWSKRUG DevOps organizer)
+   * 백엔드로 취업하는 모든것 - 김민태(우아한 형제들)
+   * From Java 개발자 To DevOps 엔지니어 - 정영진(LG U+)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/289632885/
+</details>
+
 ## 2021년
 <details>
   <summary>9회 밋업 - <b>Test twice, deploy once</b> 12월 16일</summary>
