@@ -22,6 +22,7 @@
    * AWS FIS를 활용한 EKS 안정성 검증 사례 - 정영진(LG U+)
    - Meetup 등록: https://www.meetup.com/awskrug/events/292484266/
 </details>
+
 ## 2022년
 <details>
   <summary>10회 밋업 - <b>대학생들에게 해주고 싶은 이야기 혹은 사례, 커리어 경험담</b> 11월 17일</summary>
