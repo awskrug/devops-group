@@ -6,7 +6,22 @@
   - 격월 `둘째주 화요일`에 공간대여가 가능한 곳 또는 온라인 미팅(https://chime.aws/awskrug-devops-group) 어디서든 진행합니다 
 
 # Meetups
+## 2023년
+<details>
+  <summary>12회 밋업 - <b>Spot과 NTH 활용 사례</b> 08월 02일</summary>
 
+  ### `12회 밋업`
+   * EKS Karpenter와 Spot Instance에 배포된 Service의 가용성을 높이기 위한 Node Termination Handler 적용기 - 김보경(LG U+)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/294920284/
+</details>
+<details>
+  <summary>11회 밋업 - <b>AIOps와 Fault Injection Simulator</b> 04월 06일</summary>
+
+  ### `11회 밋업`
+   * AIOps 소개 - 김성한(AWS Solutions Architect)
+   * AWS FIS를 활용한 EKS 안정성 검증 사례 - 정영진(LG U+)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/292484266/
+</details>
 ## 2022년
 <details>
   <summary>10회 밋업 - <b>대학생들에게 해주고 싶은 이야기 혹은 사례, 커리어 경험담</b> 11월 17일</summary>
