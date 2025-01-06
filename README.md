@@ -28,6 +28,7 @@
    * CircleCI를 활용한 EKS 디플로이 - 허정행(Circle CI)
    - Meetup 등록: https://www.meetup.com/ko-KR/awskrug/events/298273426/
 </details>
+
 ## 2023년
 <details>
   <summary>12회 밋업 - <b>Spot과 NTH 활용 사례</b> 08월 02일</summary>
