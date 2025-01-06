@@ -1,11 +1,33 @@
 # AWSKRUG #DevOps 모임 
 
-<img src="https://github.com/awskrug/awskrug-digital-assets/raw/master/gurumi/DevOps/AWSKRUG-DevOps.png" width="400"/>
+<img src="https://raw.githubusercontent.com/awskrug/awskrug-digital-assets/refs/heads/master/devops/devops.png" width="400"/>
 
 # 모임 일시
   - 격월 `둘째주 화요일`에 공간대여가 가능한 곳 또는 온라인 미팅(https://chime.aws/awskrug-devops-group) 어디서든 진행합니다 
 
 # Meetups
+## 2024년 
+<details>
+  <summary>15회 밋업 - <b>AWS Reinvent 2016부터 돌아보기</b> 6월 26일</summary>
+
+  ### `15회 밋업`
+   * AWS Reinvent 2016부터 돌아보기 - 송주영(LG U+)
+   - Meetup 등록: https://www.meetup.com/ko-KR/awskrug/events/301612957/
+</details>
+<details>
+  <summary>14회 밋업 - <b>EKS 환경에서 DORA Metrics 기반 DevOps 생산성 향상 방법</b> 4월 4일</summary>
+
+  ### `12회 밋업`
+   * EKS 환경에서 DORA Metrics 기반 DevOps 생산성 향상 방법 - 이상원
+   - Meetup 등록: https://www.meetup.com/ko-KR/awskrug/events/299883105/
+</details>
+<details>
+  <summary>13회 밋업 - <b>CircleCI를 활용한 EKS 디플로이</b> 1월 24일</summary>
+
+  ### `13회 밋업`
+   * CircleCI를 활용한 EKS 디플로이 - 허정행(Circle CI)
+   - Meetup 등록: https://www.meetup.com/ko-KR/awskrug/events/298273426/
+</details>
 ## 2023년
 <details>
   <summary>12회 밋업 - <b>Spot과 NTH 활용 사례</b> 08월 02일</summary>
