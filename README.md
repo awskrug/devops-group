@@ -2,10 +2,22 @@
 
 <img src="https://github.com/awskrug/awskrug-digital-assets/raw/master/gurumi/DevOps/AWSKRUG-DevOps.png" width="400"/>
 
-# 모임 일시
-  - 격월 `둘째주 화요일`에 공간대여가 가능한 곳 또는 온라인 미팅(https://chime.aws/awskrug-devops-group) 어디서든 진행합니다 
-
 # Meetups
+
+## 2025년
+<details>
+  <summary>16회 밋업 - 02월 27일</summary>
+
+  ### `16회 밋업`
+   * IDC환경의 Gitlab CI를 AWS에 구성하기(feat, EKS&Pod Identity) - 정영진(LG U+)
+   * DevOps POWER: DevOps가 기업의 미래를 결정한다 - 송주영(LG U+)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/306006324/
+</details>
+
+## 2024년
+
+
+## 2023년
 
 ## 2022년
 <details>
