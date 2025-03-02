@@ -3,6 +3,16 @@
 <img src="https://raw.githubusercontent.com/awskrug/awskrug-digital-assets/refs/heads/master/devops/devops.png" width="400"/>
 
 # Meetups
+## 2025년
+<details>
+  <summary>16회 밋업 - 02월 27일</summary>
+
+  ### `16회 밋업`
+   * IDC환경의 Gitlab CI를 AWS에 구성하기(feat, EKS&Pod Identity) - 정영진(LG U+)
+   * DevOps POWER: DevOps가 기업의 미래를 결정한다 - 송주영(LG U+)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/306006324/
+</details>
+
 ## 2024년 
 <details>
   <summary>15회 밋업 - <b>AWS Reinvent 2016부터 돌아보기</b> 6월 26일</summary>
@@ -42,21 +52,6 @@
    * AWS FIS를 활용한 EKS 안정성 검증 사례 - 정영진(LG U+)
    - Meetup 등록: https://www.meetup.com/awskrug/events/292484266/
 </details>
-
-## 2025년
-<details>
-  <summary>16회 밋업 - 02월 27일</summary>
-
-  ### `16회 밋업`
-   * IDC환경의 Gitlab CI를 AWS에 구성하기(feat, EKS&Pod Identity) - 정영진(LG U+)
-   * DevOps POWER: DevOps가 기업의 미래를 결정한다 - 송주영(LG U+)
-   - Meetup 등록: https://www.meetup.com/awskrug/events/306006324/
-</details>
-
-## 2024년
-
-
-## 2023년
 
 ## 2022년
 <details>
