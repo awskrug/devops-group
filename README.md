@@ -5,6 +5,14 @@
 # Meetups
 ## 2025년
 <details>
+  <summary>17회 밋업 - 04월 10일</summary>
+
+  ### `17회 밋업`
+   * 오픈소스로 AWS환경에 ZTNA 구축하기 - 정영진(LG U+)
+   * 클라우드 스케일링 자동화 사례 - 박원호 플랫폼엔지니어링팀 팀장, (CJ 올리브영)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/307037666/
+</details>
+<details>
   <summary>16회 밋업 - 02월 27일</summary>
 
   ### `16회 밋업`
