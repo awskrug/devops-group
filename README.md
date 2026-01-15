@@ -3,7 +3,33 @@
 <img src="https://raw.githubusercontent.com/awskrug/awskrug-digital-assets/refs/heads/master/devops/devops.png" width="400"/>
 
 # Meetups
+
+## 2026년
+<details>
+  <summary>20회 밋업 - 01월 14일</summary>
+
+  ### `20회 밋업`
+   * AWS Re:Invent Recap - 정영진 (LG U+), 구경열 (케이타운포유)
+   - Meetup 등록: https://www.meetup.com/ko-kr/awskrug/events/312675440/
+</details>
+
 ## 2025년
+<details>
+  <summary>19회 밋업 - 09월 22일</summary>
+
+  ### `19회 밋업`
+   * 개발자 오너십을 위한 Terraform 설계 - 구경열 (케이타운포유)
+   * 하이브리드 운영 자동화: AWS로 해결한 온프레미스 과제 - 정영진(LG U+)
+   - Meetup 등록: https://www.meetup.com/ko-kr/awskrug/events/310917046
+</details>
+<details>
+  <summary>18회 밋업 - 06월 25일</summary>
+
+  ### `18회 밋업`
+   * 자연어 질문으로 바로 AWS API까지 실행해 결과를 알려주는 요즘 세대 DevOps/DBA AI Agent 🗣️➡️☁️⚡️ - 김보찬, 이주영(LG U+)
+   * 아무도 불편해서 말하지 못했던 The Next Project - 송주영(LG U+)
+   - Meetup 등록: https://www.meetup.com/ko-kr/awskrug/events/308325731
+</details>
 <details>
   <summary>17회 밋업 - 04월 10일</summary>
 
