@@ -6,7 +6,14 @@
 
 ## 2026년
 <details>
-  <summary>20회 밋업 - 01월 14일</summary>
+  <summary>21회 밋업 - 03월 18일</summary>
+
+  ### `21회 밋업`
+   * Panel Talk - 정영진 (LG U+), 구경열 (케이타운포유)
+   - Meetup 등록: https://www.meetup.com/ko-kr/awskrug/events/313352636/
+</details>
+<details>
+  <summary>21회 밋업 - 03월 18일</summary>
 
   ### `20회 밋업`
    * AWS Re:Invent Recap - 정영진 (LG U+), 구경열 (케이타운포유)
