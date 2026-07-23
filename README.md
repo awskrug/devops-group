@@ -6,6 +6,30 @@
 
 ## 2026년
 <details>
+  <summary>24회 밋업 - 07월 23일</summary>
+
+  ### `24회 밋업`
+   * SlackOps DevOps Agent - 보안팀도 승인할 수 있는 AI 운영 에이전트 - 최병민 (현대오토에버)
+   * 채널코퍼레이션(채널톡) Istio Ambient Mode 도입 - 정재홍 (채널코퍼레이션)
+   - Meetup 등록: https://www.meetup.com/ko-KR/awskrug/events/315596174
+</details>
+<details>
+  <summary>23회 밋업 - 06월 17일</summary>
+
+  ### `23회 밋업`
+   * 생각의 전환 Quarkify, 무자비하게 분해해라, 2차원 평면적으로 그럼 진실이 보일 것이다. - 송주영 (LG U+)
+   * ISMS가 시킨 게 아니라, 우리가 필요했던 Zero Trust - 구경열 (케이타운포유)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/312616848/
+</details>
+<details>
+  <summary>22회 밋업 - 04월 16일</summary>
+
+  ### `22회 밋업`
+   * Terragrunt 기반 EKS 멀티테넌시 거버넌스 - 황우빈 (네오위즈파트너스, DevOps Engineer)
+   * 연결은 Lattice로, 통제는 Cilium으로: Sidecar-less 기반 EKS 다중 클러스터 네트워킹 전략 - 이주안 (Algorix Corporation, Solution Architect)
+   - Meetup 등록: https://www.meetup.com/awskrug/events/314014265/
+</details>
+<details>
   <summary>21회 밋업 - 03월 18일</summary>
 
   ### `21회 밋업`
@@ -13,7 +37,7 @@
    - Meetup 등록: https://www.meetup.com/ko-kr/awskrug/events/313352636/
 </details>
 <details>
-  <summary>21회 밋업 - 03월 18일</summary>
+  <summary>20회 밋업 - 01월 14일</summary>
 
   ### `20회 밋업`
    * AWS Re:Invent Recap - 정영진 (LG U+), 구경열 (케이타운포유)
