@@ -6,6 +6,14 @@
 
 ## 2026년
 <details>
+  <summary>25회 밋업 - 08월 19일</summary>
+
+  ### `25회 밋업`
+   * DevOps의 다음 고객은 AI Agent 입니다 - 김보경 (LG U+)
+   * 단 3일, 2.8억 원의 비용 폭탄을 막아낸 SIEM Bot Monitor - 박준형 (대한항공)
+   - Meetup 등록: https://www.meetup.com/ko-KR/awskrug/events/315941240
+</details>
+<details>
   <summary>24회 밋업 - 07월 23일</summary>
 
   ### `24회 밋업`
