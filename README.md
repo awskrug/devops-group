@@ -6,6 +6,14 @@
 
 ## 2026년
 <details>
+  <summary>26회 밋업 - 09월 15일</summary>
+
+  ### `26회 밋업`
+   * 코드베이스 AI 발표: 규모와 탐색전략 - 심근우 (LG U+)
+   * 당신의 이력서, 면접관은 이렇게 읽고 있습니다 - 패널톡(DevOps Organizer, 심근우)
+   - Meetup 등록: https://www.meetup.com/ko-kr/awskrug/events/316366209
+</details>
+<details>
   <summary>25회 밋업 - 08월 19일</summary>
 
   ### `25회 밋업`
